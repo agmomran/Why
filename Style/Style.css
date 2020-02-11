@@ -1,0 +1,172 @@
+/*This is css*/
+*{
+  margin: 0;
+}
+.nav-li{
+  list-style: none;
+  display: inline-block;
+  width: 100px;
+  text-align: center;
+  margin-top: 10px;
+} 
+.nav{
+  margin-left: 897px;
+}
+.A{
+  text-decoration: none;
+  color: white;
+  font-size: 15px;
+}
+.first{
+  background: url(../imgs/banner.jpg);
+}
+.icons{
+  display: inline-block;
+  font-size: 70px;
+
+  padding: 10px;
+  color: #54b258;
+  text-align: center;
+  width: 410px;
+}
+h1{
+  font-size: 40px;
+  color: white;
+  text-align: center;
+  margin-top: 10px;
+}
+p{
+  font-size: 20px;
+  color: white;
+  text-align: center;
+  margin-top: 30px;
+}
+.tagline{
+  font-size: 50px;
+  text-align: center;
+  color: white;
+  margin-top: 117px;
+  margin-bottom: 130px;
+}
+.line{
+  display: inline-block;
+  border-top: 1px solid hsl(6, 100%, 100%, 60%);
+  width: 1100px;
+  height: 0px;
+  margin-left: 120px;
+  box-shadow: 0px 0px 10px 0px;
+  margin-top: 48px;
+}
+.button{
+  background: #54b258;
+  display: inline-block;
+  text-align: center;
+  margin-left: 590px;
+  margin-bottom: 40px;
+  width: 200px;
+  padding: 5px 9px 5px 9px;
+  border: 0px solid;
+  border-radius: 20px;
+  text-decoration: none;
+  color: white;
+  font-size: 15px;
+}
+.div2-li{
+  list-style: none;
+}
+.talk{
+  color: black;
+  text-align: center;
+  font-size: 25px;
+  width: 200px;
+  margin-left: 180px;
+}
+.left{
+  background: white;
+  width: 49%;
+  height: 400px;
+  margin-bottom: 100px;
+  margin-top: 20px;
+  float: left;
+  border-right: solid hsla(122,57%,64%,40%)
+}
+.right{
+  background: white;
+  width: 49%;
+  height: 400px;
+  margin-bottom: 100px;
+  margin-top: 20px;
+  float: right;
+}
+.pic1{
+  border: 2px solid;
+  border-radius: 100px;
+  box-shadow: 10px 0px 10px 4px rgba(38, 38, 38, 0.5);
+  margin-left: 200px;
+}
+.pic2{
+  border: 2px solid;
+  border-radius: 100px;
+  box-shadow: 10px 0px 10px 4px rgba(38, 38, 38, 0.5);
+  margin-left: 200px;
+}
+.text{
+  color: black;
+  text-align: left;
+  width: 500px;
+  margin-bottom: 20px;
+}
+.anchor{
+  text-decoration: none;
+  background: #54b258;
+  color: white;
+  border: 0px solid;
+  border-radius: 20px;
+  padding: 5px 30px 5px 30px;
+  margin-left: 200px;
+  margin-top: 50px;
+}
+.second{
+  background: white;
+}
+.form{
+  background: #6cc091;
+  margin-top: 480px;
+}
+.name{
+  margin-left: 150px;
+  border: solid 0px;
+  border-radius: 8px;
+  width: 500px;
+  height: 35px;
+  font-size: 15px;
+}
+.mail{
+  margin-left: 50px;
+  border: solid 0px;
+  border-radius: 8px;
+  width: 500px;
+  height: 35px;
+  font-size: 15px;
+}
+.mess{
+  margin-top: 40px;
+  margin-left: 150px;
+  width: 1057px;
+  border: solid 0px;
+  border-radius: 8px;
+}
+.send{
+  margin-left: 650px;
+  margin-top: 30px;
+  margin-bottom: 50px;
+  background: #6cc091;
+  border: solid white 2px;
+  border-radius: 10px;
+  color: white;
+  padding: 1px 15px 1px 15px;
+}
+.last{
+  color: white;
+  margin-bottom: 70px;
+}
